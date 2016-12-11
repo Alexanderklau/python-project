@@ -1,0 +1,5 @@
+print("I will now count my  chickens:")
+print("Hens",100-25)
+print("Robat",50/2)
+print("Is it true that 3 + 2 < 5 - 7?")
+print(3 + 2 < 5 -7)

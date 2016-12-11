@@ -1,0 +1,1 @@
+a = int(input("Please input a nmber:"))

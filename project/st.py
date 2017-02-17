@@ -1,6 +1,13 @@
 # -*-coding:utf-8 -*- 
 __author__ = 'Yemilice_lau'
-a = input('ENter a string:')
+
+db = {}
+
+def newuser():
+    prompt = 'login desired: '
+    while True:
+        name = input(prompt)
+        if db.has_key(name):
 
 
 

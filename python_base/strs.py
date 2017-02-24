@@ -27,7 +27,7 @@ print(s5)
 s6 = s5.upper()
 print(s6)
 
-s7 = s5.
+print('{}/{}'.format(42,21))
 
 
 

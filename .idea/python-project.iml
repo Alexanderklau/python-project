@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="python-web-crawlers" />
     <orderEntry type="module" module-name="hackerRank" />
+    <orderEntry type="module" module-name="scrapy-spider-project" />
   </component>
 </module>

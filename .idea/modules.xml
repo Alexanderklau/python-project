@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../hackerRank/.idea/hackerRank.iml" filepath="$PROJECT_DIR$/../hackerRank/.idea/hackerRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-project.iml" filepath="$PROJECT_DIR$/.idea/python-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../python-web-crawlers/.idea/python-web-crawlers.iml" filepath="$PROJECT_DIR$/../python-web-crawlers/.idea/python-web-crawlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapy-spider-project/.idea/scrapy-spider-project.iml" filepath="$PROJECT_DIR$/../scrapy-spider-project/.idea/scrapy-spider-project.iml" />
     </modules>
   </component>
 </project>
